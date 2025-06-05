@@ -7,6 +7,7 @@ export default function Page() {
     <>
       <Head>
         <title>Mi primera homepage</title>
+        <meta name="description" content="Test" />
       </Head>
       <>
         <LandingHeroSection

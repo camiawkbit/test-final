@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/',
-        destination: '/mi-primera-homepage',
+        destination: '/-root-2',
         permanent: false
       }
     ];
